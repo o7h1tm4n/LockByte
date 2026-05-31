@@ -1,6 +1,7 @@
 # LockByte
 
-LockByte is a command-line file encryption tool. It takes any file and a user password, then outputs an encrypted file that only the correct password can unlock.
+LockByte is a command-line encryption tool that secures any file using a user-provided password. It implements AES-256-CBC for data confidentiality, HMAC-SHA256 for integrity verification, and SHA-256 key stretching with 10,000 iterations for secure key derivation. Decryption is only possible with the correct password.
+
 
 ## Installation Req
 
