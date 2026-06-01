@@ -9,8 +9,6 @@ pip install pycryptodome
 
 ## Usage
 
-## Usage
-
 **Encrypt:**
 1. Run `python encrypt.py`
 2. Enter file to encrypt
