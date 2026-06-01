@@ -29,5 +29,3 @@ pip install pycryptodome
 
 GPL-3.0
 
-
-o7
